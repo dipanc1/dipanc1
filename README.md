@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipanc1
 - 👀 I’m interested in coding, right now.
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on making a website
+- 💞️ I’m looking for a 'learning mate', so we can learn together.
 - 📫 How to reach me @fb.com/dipanc1
 
 <!---
