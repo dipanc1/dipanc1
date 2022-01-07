@@ -12,7 +12,7 @@ const aboutMe = {
       backend: ["Nodejs", "ASP.NET"],
       databases: ["MongoDB", "SQL"],
    },
-   currentOccupation: ["Open for new opportunities"],
+   currentOccupation: ["Looking for new opportunities"],
    hobbies: ["Listening to Sufi Music", "Watching Movies"],
 };
 ```
