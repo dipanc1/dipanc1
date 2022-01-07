@@ -9,7 +9,7 @@ const aboutMe = {
          js: ["React", "Next"],
          css: ["Material UI", "Vanilla CSS", "Bootstrap"]
       },
-      backend: ["Nodejs", "ASP.NET"],
+      backEnd: ["Nodejs", "ASP.NET"],
       databases: ["MongoDB", "SQL"],
    },
    currentOccupation: ["Looking for new opportunities"],
