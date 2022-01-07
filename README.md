@@ -3,7 +3,7 @@
 ```
 const aboutMe = {
    name: "Dipan Chhabra",
-   code: [Javascript, Node],
+   code: [Javascript, Node, Python, C],
    technologies: {
       frontEnd: {
          js: ["React", "Next"],
