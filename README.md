@@ -3,13 +3,13 @@
 ```
 const aboutMe = {
    name: "Dipan Chhabra",
-   pronouns: "he" | "him",
    code: [Javascript, Node],
    technologies: {
       frontEnd: {
-         js: ["React", "NextJS"],
+         js: ["React", "Next"],
          css: ["Material UI", "Vanilla CSS", "Bootstrap"]
       },
+      backend: ["Nodejs", "ASP.NET"],
       databases: ["MongoDB", "SQL"],
    },
    currentOccupation: ["Open for job opportunities"],
