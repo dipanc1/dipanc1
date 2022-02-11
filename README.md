@@ -7,7 +7,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Next"],
-         css: ["Material UI", "Vanilla CSS", "Bootstrap"]
+         css: ["Material UI", "Vanilla CSS", "Bootstrap", "TailwindCSS"]
       },
       backEnd: ["Nodejs", "ASP.NET"],
       databases: ["MongoDB", "SQL"],
