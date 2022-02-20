@@ -1,6 +1,6 @@
 # Hi There :wave:
 
-```
+```js
 const aboutMe = {
    name: "Dipan Chhabra",
    code: [Javascript, Node, Python, C],
