@@ -7,10 +7,10 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Next"],
-         css: ["Material UI", "Vanilla CSS", "Bootstrap", "TailwindCSS"]
+         css: ["Material UI", "Vanilla CSS", "Bootstrap", "TailwindCSS", "ChakraUI"]
       },
       backEnd: ["Nodejs", "ASP.NET"],
-      databases: ["MongoDB", "SQL"],
+      databases: ["MongoDB", "MySQL", "MSSQL", "GraphQL"],
    },
    currentOccupation: ["Looking for new opportunities"],
    hobbies: ["Listening to Sufi Music", "Watching Movies"],
