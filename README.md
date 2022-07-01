@@ -6,10 +6,10 @@ const aboutMe = {
    code: [Javascript, Node, Python, C],
    technologies: {
       frontEnd: {
-         js: ["React", "Next"],
+         js: ["React", "Next", "Angular"],
          css: ["Material UI", "Vanilla CSS", "Bootstrap", "TailwindCSS", "ChakraUI"]
       },
-      backEnd: ["Nodejs", "ASP.NET"],
+      backEnd: ["Nodejs", "ASP.NET", "Nestjs"],
       databases: ["MongoDB", "MySQL", "MSSQL", "GraphQL"],
    },
    currentOccupation: ["Looking for new opportunities"],
