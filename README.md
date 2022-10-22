@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://morph-blog.netlify.app/](https://morph-blog.netlify.app/)
 
-- 💬 Ask me about **react, angular, asp.net, data structures, algorithms, javascript, node, typescript & python**
+- 💬 Ask me about **react, angular, asp.net, data structures, algorithms, javascript, node, java & python**
 
 - 📫 How to reach me **dipanchhabra@gmail.com**
 
