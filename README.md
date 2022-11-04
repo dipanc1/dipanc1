@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanc1" alt="dipanc1" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Springboot, Algorithms & System Design**
+- 🌱 I’m currently learning **Angular (Reactive Approach), Springboot, Algorithms & System Design**
 
 - 👨‍💻 All of my projects are available at [https://dipan-portfolio.netlify.app/](https://dipan-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://morph-blog.netlify.app/](https://morph-blog.netlify.app/)
 
-- 💬 Ask me about **react, angular, asp.net, data structures, algorithms, javascript, node, java & python**
+- 💬 Ask me about **Reactjs, Angular2+, ASP.NET, Data Structures, Algorithms, JavaScript/TypeScript, Node.js, Java & SQL**
 
 - 📫 How to reach me **dipanchhabra@gmail.com**
 
