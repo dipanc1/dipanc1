@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipan</h1>
-<h3 align="center">A Full-Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanc1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanc1" /> </p>
 
