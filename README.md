@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular (RxJs, NgRx), Springboot, Algorithms & System Design**
 
-- 👨‍💻 All of my projects are available at [https://dipan-portfolio.netlify.app/](https://dipan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dipan-portfolio2.netlify.app/](https://dipan-portfolio2.netlify.app/)
 
 - 📝 I regularly write articles on [https://morph-blog.netlify.app/](https://morph-blog.netlify.app/)
 
