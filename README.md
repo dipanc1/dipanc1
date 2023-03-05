@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dipanchhabra@gmail.com**
 
-- 📄 Know about my experiences [https://dipan-portfolio.netlify.app/](https://dipan-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dipan-chhabra-454520164/](https://www.linkedin.com/in/dipan-chhabra-454520164/)
 
 - ⚡ Fun fact **I did my bachelor's degree in mechanical engineering**
 
