@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [Morph Blogs](https://morph-blog.netlify.app/)
 
-- 💬 Ask me about **React, React Native, Angular2+, ASP.NET, Data Structures, Algorithms, JavaScript/TypeScript, Node.js, Java & SQL**
+- 💬 Ask me about **React, Angular, Node.js, ASP.NET, Data Structures, Algorithms, JavaScript, Java & SQL**
 
 - 📫 How to reach me **dipanchhabra@gmail.com**
 
-- 📄 Know about my experiences [Dipan's LinkedIn](https://www.linkedin.com/in/dipan-chhabra-454520164/)
+- 📄 Know about my experiences at [Dipan's LinkedIn](https://www.linkedin.com/in/dipan-chhabra-454520164/)
 
 - ⚡ Fun fact **I did my bachelor's degree in mechanical engineering**
 
