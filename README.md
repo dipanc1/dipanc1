@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanc1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanc1" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Angular (RxJs, NgRx), Springboot, Algorithms & System Design**
 
-- 👨‍💻 All of my projects are available at [https://dipan-portfolio2.netlify.app/](https://dipan-portfolio2.netlify.app/)
+- 👨‍💻 All of my projects are available at [Dipan's Portfolio](https://dipan-portfolio2.netlify.app/)
 
-- 📝 I regularly write articles on [https://morph-blog.netlify.app/](https://morph-blog.netlify.app/)
+- 📝 I regularly write articles on [Morph Blogs](https://morph-blog.netlify.app/)
 
 - 💬 Ask me about **React, React Native, Angular2+, ASP.NET, Data Structures, Algorithms, JavaScript/TypeScript, Node.js, Java & SQL**
 
 - 📫 How to reach me **dipanchhabra@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dipan-chhabra-454520164/](https://www.linkedin.com/in/dipan-chhabra-454520164/)
+- 📄 Know about my experiences [Dipan's LinkedIn](https://www.linkedin.com/in/dipan-chhabra-454520164/)
 
 - ⚡ Fun fact **I did my bachelor's degree in mechanical engineering**
 
