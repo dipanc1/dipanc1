@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dipan</h1>
-<h3 align="center">A Full-Stack Developer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanc1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanc1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanc1" alt="dipanc1" /></a> </p>
 
-- 🌱 I’m currently learning **Angular (RxJs, NgRx), Spring Boot, Algorithms & System Design**
+- 🌱 I’m currently learning **Vibe Coding**
 
 - 👨‍💻 All of my projects are available at [Dipan's Portfolio](https://dipan-portfolio2.netlify.app/)
 
