@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanc1" alt="dipanc1" /></a> </p>
 
-- 🌱 I’m currently learning **Vibe Coding**
+- 🌱 I’m currently **Vibe Coding**
 
 - 👨‍💻 All of my projects are available at [Dipan's Portfolio](https://dipan-portfolio2.netlify.app/)
 
