@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Dipan's Portfolio](https://dipan-portfolio2.netlify.app/)
 
-- 📝 I regularly write articles on [Morph Blogs](https://morph-blog.netlify.app/)
+- 📝 I regularly write articles on [Dipan's Substack](https://dipanchhabra.substack.com/)
 
 - 💬 Ask me about **React, Angular, Node.js, ASP.NET, Data Structures, Algorithms, JavaScript, Java & SQL**
 
