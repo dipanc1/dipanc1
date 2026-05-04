@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipan</h1>
-<h3 align="center">A Software Engineer from India</h3>
+<h3 align="center">A Software Engineer currently in Germany holding Chancenkarte (Full unrestricted work authorization for Germany. NO visa sponsorship required. Available to start immediately.) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanc1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanc1" /> </p>
 
